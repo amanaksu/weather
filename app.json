@@ -24,8 +24,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kei.weather",
+      "buildNumber": "1.0.0"
     },
-    "description": ""
+    "android": {
+      "package": "com.kei.weather",
+      "versionCode": 1
+    },
+    "description": "",
+    "githubUrl": "https://github.com/amanaksu/weather"
   }
 }
